@@ -1,0 +1,57 @@
+
+
+body{
+	display;flex: 
+	justify-content: center;
+	background-image: url(img/grid.png);
+	background-size: cover;
+    background-color: #d7cfcf;
+	
+}
+
+
+h1{
+
+	display: flex;
+	justify-content: center;
+	font-family: GothicE;
+	font-size: 72px;
+	color: black;
+	margin-top: 40px;
+
+	
+}
+
+h2{
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-family: Times New Roman;
+	font-size: 48px;
+}
+
+
+a {
+
+	display:flex;
+	justify-content: center;
+
+}
+
+.container {
+display: flex;
+justify-content: center;
+font-family: Futura 
+}
+.col-sm-12{
+display:flex;
+justify-content: center;
+width: 500px;
+height: 500px;
+
+
+}
+#icon {
+	display:flex;
+	margin-top: 20px;
+}
